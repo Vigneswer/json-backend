@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": "c33b",
+      "name": "Laptop",
+      "category": "Electronics",
+      "price": "50000",
+      "stock": "10",
+      "image": "https://tse3.mm.bing.net/th/id/OIP.JQKiSrB_Klw57fjpUjP4RAHaEK?pid=Api&P=0&h=180"
+    },
+    {
+      "id": "46a2",
+      "name": "NoteBook",
+      "category": "STationery",
+      "price": "50",
+      "stock": "200",
+      "image": "https://tse2.mm.bing.net/th/id/OIP.BUZ0dusRuFXS5CHe05GxrwHaEl?pid=Api&P=0&h=180"
+    },
+    {
+        "id": "46a6",
+    "name": "Smartphone Charger",
+    "category": "Electronics",
+    "price": 699,
+    "stock": 60,
+    "image": "https://tse1.mm.bing.net/th/id/OIP.q4Rib5zecBFYjxHpJQVEzQHaDt?pid=Api&P=0&h=180"
+    },
+    {
+        "id": "46a7",
+  "name": "Bluetooth Speaker",
+  "category": "Electronics",
+  "price": 2499,
+  "stock": 25,
+  "image": "https://tse4.mm.bing.net/th/id/OIP.GFVn10f9OWVU4Kk1qSP0PQHaHX?pid=Api&P=0&h=180"
+},
+{
+    "id": "46a5",
+  "name": "Wireless Mouse",
+  "category": "Electronics",
+  "price": 899,
+  "stock": 40,
+  "image": "https://tse4.mm.bing.net/th/id/OIP.X-InXN9-qDE6D5DnxMwKowHaHx?pid=Api&P=0&h=180"
+}
+  ]
+}
